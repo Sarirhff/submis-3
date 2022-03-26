@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/drawable-night/ic_darkmode.xml" value="0.198" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/drawable/favorite.xml" value="0.1785" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/drawable/ic_darkmode.xml" value="0.198" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/drawable/ic_search.xml" value="0.141" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/drawable/ic_sunny.xml" value="0.198" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/layout/activity_detail_user.xml" value="0.22" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/layout/activity_favorite.xml" value="0.1480978260869565" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/layout/activity_setting.xml" value="0.4466666666666667" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/layout/fragment_followers.xml" value="0.14130434782608695" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/layout/item_user.xml" value="0.1" />
+        <entry key="..\:/BANGKIT/last submission/submission2/app/src/main/res/menu/option_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
